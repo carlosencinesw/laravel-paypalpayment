@@ -1,6 +1,8 @@
 
 #### Note :
 El paquete principal es del siguiente <a href='https://github.com/anouarabdsslm/laravel-paypalpayment'>link</a>, aquí lo subí con el SDK de PayPal actualizado.
+
+#### Note :
 If you're going to use this package with Laravel 4, make sure to require the Laravel 4 branch: 
 ```js
 "require": {
